@@ -1,0 +1,13 @@
+﻿Model,Feature_Set,Accuracy_Mean,Accuracy_Std,Macro_F1_Mean,Macro_F1_Std,Weighted_F1_Mean,Weighted_F1_Std,Time_sec
+Random Forest,Original Cora Features,0.7592,0.0079,0.7443,0.0078,0.7577,0.0078,3.93
+Random Forest,Graph Indices Only,0.5742,0.0039,0.5408,0.008,0.5655,0.0054,2.58
+Random Forest,Original + Graph Indices,0.774,0.0073,0.7587,0.0071,0.7716,0.0073,3.85
+XGBoost,Original Cora Features,0.6987,0.0064,0.6839,0.0151,0.6961,0.0075,5.55
+XGBoost,Graph Indices Only,0.51,0.0166,0.4201,0.023,0.4615,0.0182,0.79
+XGBoost,Original + Graph Indices,0.7382,0.0208,0.7221,0.0221,0.7338,0.0211,8.56
+Linear SVM,Original Cora Features,0.6684,0.0183,0.6496,0.0153,0.6673,0.0181,9.27
+Linear SVM,Graph Indices Only,0.4018,0.008,0.2459,0.0121,0.3144,0.0102,0.12
+Linear SVM,Original + Graph Indices,0.6957,0.02,0.6784,0.0181,0.6945,0.0207,1.74
+MLP,Original Cora Features,0.678,0.0185,0.6485,0.0193,0.6753,0.0185,10.34
+MLP,Graph Indices Only,0.4627,0.0201,0.3421,0.0425,0.3981,0.031,3.02
+MLP,Original + Graph Indices,0.6713,0.0133,0.647,0.0142,0.6699,0.0126,8.45

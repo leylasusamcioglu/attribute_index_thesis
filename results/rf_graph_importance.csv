@@ -1,0 +1,8 @@
+﻿Feature,Importance
+eigenvector_centrality,0.2806917637548112
+harmonic_centrality,0.22274991952312878
+pagerank,0.15404413122023025
+katz_centrality,0.1438785482394311
+betweenness_centrality,0.11385067148381357
+clustering_coefficient,0.0502530226826805
+degree_centrality,0.03453194309590452

@@ -1,0 +1,5 @@
+﻿Model,Original_Accuracy,Graph_Only_Accuracy,Combined_Accuracy,Accuracy_Improvement
+Random Forest,0.7731,0.5627,0.786,0.0129
+XGBoost,0.7122,0.5074,0.7509,0.0387
+Linear SVM,0.69,0.4004,0.7177,0.0277
+MLP,0.6624,0.4539,0.6956,0.0332
